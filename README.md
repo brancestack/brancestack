@@ -1,12 +1,14 @@
 # Nicolas Castro
 
-Computer Science Student | Backend Developer | FinTech & Banking | Product | Microsservices |
-I am passionate about building scalable software solutions and exploring how technology can improve financial services, digital products, and business operations.
-My main interests are focused on designing reliable systems, backend services, and modern software architectures that support high-volume transactions, product growth, and long-term scalability.
+### Computer Science Student | Backend Developer | FinTech | Banking Technology | Product Engineering
 
+I am passionate about building scalable software solutions and exploring how technology can transform financial services, digital products, and business operations.
 
+My interests are centered around backend engineering, distributed systems, financial technology, and software architecture designed to support high-volume transactions, product scalability, and long-term business growth.
 
-## Areas
+---
+
+## Areas of Interest
 
 - Financial Technology (FinTech)
 - Banking Systems
@@ -21,27 +23,29 @@ My main interests are focused on designing reliable systems, backend services, a
 - Platform Engineering
 - Cloud-Native Applications
 
+---
+
 ## Featured Projects
 
 ### Wallet Service
 
-A backend service responsible for account management, balance control, and transaction processing.
+Backend service responsible for account management, balance control, and transaction processing.
 
 **Technologies:** Java, Spring Boot
 
 ### Transaction Monitoring Service
 
-A service designed to analyze financial transactions and generate risk scores based on predefined business rules.
+Service designed to analyze financial transactions and generate risk scores based on predefined business rules.
 
 **Technologies:** Python
 
 ### Immutable Ledger Service
 
-An audit-focused service that uses hash chaining techniques to guarantee transaction integrity and traceability.
+Audit-focused service that uses hash-chain techniques to ensure transaction integrity and traceability.
 
 **Technologies:** Rust
 
-
+---
 
 ## Tech Stack
 
@@ -67,34 +71,34 @@ An audit-focused service that uses hash chaining techniques to guarantee transac
 
 ## Professional Goals
 
-My goal is to contribute to products that solve real-world problems, particularly in the financial sector, while continuously improving my skills in software engineering, system design, and scalable architectures.
+My goal is to contribute to technology products that solve real-world problems, particularly within the financial sector, while continuously improving my skills in software engineering, system design, and scalable architectures.
+
 I am especially interested in opportunities involving:
 
 - FinTech
-- Corporative
 - Banking Technology
+- Corporate Technology
 - Backend Development
 - Software Engineering
 - Platform Engineering
 - Product Development
 
-
+---
 
 ## GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=brancestack&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=brancestack&show_icons=true&theme=github_dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=brancestack&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=brancestack&layout=compact&theme=github_dark)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=brancestack)
+![GitHub Streak](https://streak-stats.demolab.com?user=brancestack&theme=github-dark-blue)
 
-
-
+---
 
 ## Contact
 
-Fortaleza, Brazil
+📍 Fortaleza, Brazil
 
-Computer Science Student
+🎓 Computer Science Student
 
-
+💼 Open to internship and early-career opportunities in Software Engineering, Backend Development, FinTech, Banking Technology, and Product Engineering.
