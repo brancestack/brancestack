@@ -1,7 +1,9 @@
-<h1 align="center">Nicolas Castro</h1>
+<h1 align="center">Brancestack</h1>
 
 <p align="center">
-Backend Developer • FinTech • Banking Technology • Product Engineering
+  <img src="https://img.shields.io/badge/Backend%20Developer-DC2626?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/FinTech-DC2626?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Banking-DC2626?style=for-the-badge" />
 </p>
 
 <p align="center">
