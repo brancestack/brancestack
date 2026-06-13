@@ -72,14 +72,10 @@ I am especially interested in opportunities involving:
 ## Git Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brancestack&show_icons=true&bg_color=000000&title_color=DC2626&text_color=FFFFFF&icon_color=DC2626&border_color=DC2626"/>
-  <img height="180em" width="360em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brancestack&layout=compact&langs_count=5&bg_color=000000&title_color=DC2626&text_color=FFFFFF&border_color=DC2626"/>
-</p>
+  <img src="https://github-readme-stats.vercel.app/api?username=brancestack&show_icons=true&bg_color=000000&title_color=DC2626&text_color=FFFFFF&icon_color=DC2626&border_color=DC2626" height="165"/>
 
-<p align="center">
-  <img height="180em" src="https://streak-stats.demolab.com?user=brancestack&background=000000&border=DC2626&stroke=DC2626&ring=DC2626&fire=EF4444&currStreakNum=FFFFFF&currStreakLabel=DC2626&sideNums=FFFFFF&sideLabels=FFFFFF&dates=9CA3AF"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brancestack&layout=compact&langs_count=6&bg_color=000000&title_color=DC2626&text_color=FFFFFF&border_color=DC2626" height="165"/>
 </p>
-
 ---
 
 ## Contact
