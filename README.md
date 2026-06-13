@@ -1,6 +1,6 @@
 # Nicolas Castro
 
-Computer Science Student at UNIFOR | Backend Developer | FinTech & Banking | Product | Microsservices |
+Computer Science Student | Backend Developer | FinTech & Banking | Product | Microsservices |
 I am passionate about building scalable software solutions and exploring how technology can improve financial services, digital products, and business operations.
 My main interests are focused on designing reliable systems, backend services, and modern software architectures that support high-volume transactions, product growth, and long-term scalability.
 
