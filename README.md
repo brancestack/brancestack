@@ -8,7 +8,7 @@
 
 ## About Me
 
-I am enthusiast about building scalable software solutions and exploring how technology can transform financial services, digital products, and business operations.
+I am enthusiastic about building scalable software solutions and exploring how technology can transform financial services, digital products, and business operations.
 
 My interests are centered around backend engineering, distributed systems, financial technology, and software architecture designed to support high-volume transactions, product scalability, and long-term business growth.
 
@@ -31,7 +31,7 @@ My interests are centered around backend engineering, distributed systems, finan
 
 ---
 
-## Tech Stack
+## Stack
 
 ### Backend
 
@@ -73,12 +73,13 @@ I am especially interested in opportunities involving:
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brancestack&show_icons=true&bg_color=000000&title_color=DC2626&text_color=FFFFFF&icon_color=DC2626&border_color=DC2626"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brancestack&layout=compact&bg_color=000000&title_color=DC2626&text_color=FFFFFF&border_color=DC2626"/>
+  <img height="180em" width="360em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brancestack&layout=compact&langs_count=5&bg_color=000000&title_color=DC2626&text_color=FFFFFF&border_color=DC2626"/>
 </p>
 
 <p align="center">
   <img height="180em" src="https://streak-stats.demolab.com?user=brancestack&background=000000&border=DC2626&stroke=DC2626&ring=DC2626&fire=EF4444&currStreakNum=FFFFFF&currStreakLabel=DC2626&sideNums=FFFFFF&sideLabels=FFFFFF&dates=9CA3AF"/>
 </p>
+
 ---
 
 ## Contact
