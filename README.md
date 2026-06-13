@@ -66,7 +66,7 @@ I am especially interested in opportunities involving:
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=brancestack&layout=compact&bg_color=000000&title_color=ff3b3b&text_color=ffffff&border_color=ff3b3b)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=brancestack&theme=dark&ring=ff3b3b&fire=ff3b3b&currStreakLabel=ff3b3b&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff)
+![GitHub Streak](https://streak-stats.demolab.com?user=brancestack&background=000000&border=DC2626&stroke=DC2626&ring=DC2626&fire=EF4444&currStreakNum=FFFFFF&currStreakLabel=DC2626&sideNums=FFFFFF&sideLabels=FFFFFF&dates=9CA3AF)
 
 
 ## Contact
