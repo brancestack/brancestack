@@ -8,7 +8,7 @@ My interests are centered around backend engineering, distributed systems, finan
 
 
 
-## Areas of Interest
+## Interest
 
 - Financial Technology (FinTech)
 - Banking Systems
@@ -23,7 +23,7 @@ My interests are centered around backend engineering, distributed systems, finan
 - Platform Engineering
 - Cloud-Native Applications
 
-## Tech Stack
+## Stacks
 
 ### Backend
 
@@ -45,7 +45,7 @@ My interests are centered around backend engineering, distributed systems, finan
 
 ---
 
-## Professional Goals
+## Goals
 
 My goal is to contribute to technology products that solve real-world problems, particularly within the financial sector, while continuously improving my skills in software engineering, system design, and scalable architectures.
 
