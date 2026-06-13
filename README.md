@@ -1,14 +1,12 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=DC2626&height=220&section=header&text=Nicolas%20Castro&fontSize=45&fontColor=ffffff&animation=fadeIn" />
+<h1 align="center">Nicolas Castro</h1>
 
-<h3 align="center">
-Computer Science Student | Backend Developer | FinTech | Banking Technology | Product Engineering
-</h3>
+<p align="center">
+Backend Developer • FinTech • Banking Technology • Product Engineering
+</p>
 
 <p align="center">
 <i>My commits are heavily influenced by Monster Energy White.</i>
 </p>
-
----
 
 ## About Me
 
