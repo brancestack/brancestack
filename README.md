@@ -6,7 +6,7 @@ I am passionate about building scalable software solutions and exploring how tec
 
 My interests are centered around backend engineering, distributed systems, financial technology, and software architecture designed to support high-volume transactions, product scalability, and long-term business growth.
 
----
+
 
 ## Areas of Interest
 
@@ -22,30 +22,6 @@ My interests are centered around backend engineering, distributed systems, finan
 - Artificial Intelligence
 - Platform Engineering
 - Cloud-Native Applications
-
----
-
-## Featured Projects
-
-### Wallet Service
-
-Backend service responsible for account management, balance control, and transaction processing.
-
-**Technologies:** Java, Spring Boot
-
-### Transaction Monitoring Service
-
-Service designed to analyze financial transactions and generate risk scores based on predefined business rules.
-
-**Technologies:** Python
-
-### Immutable Ledger Service
-
-Audit-focused service that uses hash-chain techniques to ensure transaction integrity and traceability.
-
-**Technologies:** Rust
-
----
 
 ## Tech Stack
 
@@ -83,22 +59,17 @@ I am especially interested in opportunities involving:
 - Platform Engineering
 - Product Development
 
----
 
-## GitHub Statistics
+## Git Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=brancestack&show_icons=true&theme=github_dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=brancestack&show_icons=true&bg_color=000000&title_color=ff3b3b&text_color=ffffff&icon_color=ff3b3b&border_color=ff3b3b)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=brancestack&layout=compact&theme=github_dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=brancestack&layout=compact&bg_color=000000&title_color=ff3b3b&text_color=ffffff&border_color=ff3b3b)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=brancestack&theme=github-dark-blue)
+![GitHub Streak](https://streak-stats.demolab.com?user=brancestack&theme=dark&ring=ff3b3b&fire=ff3b3b&currStreakLabel=ff3b3b&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff)
 
----
 
 ## Contact
 
-📍 Fortaleza, Brazil
+Fortaleza, Brazil 
 
-🎓 Computer Science Student
-
-💼 Open to internship and early-career opportunities in Software Engineering, Backend Development, FinTech, Banking Technology, and Product Engineering.
