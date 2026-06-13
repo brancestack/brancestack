@@ -8,7 +8,7 @@
 
 ## About Me
 
-I am passionate about building scalable software solutions and exploring how technology can transform financial services, digital products, and business operations.
+I am enthusiast about building scalable software solutions and exploring how technology can transform financial services, digital products, and business operations.
 
 My interests are centered around backend engineering, distributed systems, financial technology, and software architecture designed to support high-volume transactions, product scalability, and long-term business growth.
 
