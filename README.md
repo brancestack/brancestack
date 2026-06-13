@@ -6,7 +6,7 @@ My main interests are focused on designing reliable systems, backend services, a
 
 
 
-## Areas of Interest
+## Areas
 
 - Financial Technology (FinTech)
 - Banking Systems
@@ -20,22 +20,6 @@ My main interests are focused on designing reliable systems, backend services, a
 - Artificial Intelligence
 - Platform Engineering
 - Cloud-Native Applications
-
-
-
-## What I'm Currently Learning
-
-- Building scalable REST APIs
-- Microservices architecture
-- Event-driven systems
-- Distributed applications
-- Transaction processing workflows
-- Risk analysis and monitoring systems
-- Software design patterns
-- Clean Architecture
-- Domain-Driven Design (DDD)
-
-
 
 ## Featured Projects
 
@@ -98,18 +82,19 @@ I am especially interested in opportunities involving:
 
 ## GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=brancestack&show_icons=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=brancestack&layout=compact)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME)
+![GitHub Streak](https://streak-stats.demolab.com?user=brancestack)
 
----
+
+
 
 ## Contact
 
-📍 Fortaleza, Brazil
+Fortaleza, Brazil
 
-🎓 Computer Science Student
+Computer Science Student
 
-💼 Open to internship and early-career opportunities in Software Engineering, Backend Development, FinTech, and Banking Technology.
+
