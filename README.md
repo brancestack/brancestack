@@ -74,8 +74,9 @@ I am especially interested in opportunities involving:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=brancestack&show_icons=true&bg_color=000000&title_color=DC2626&text_color=FFFFFF&icon_color=DC2626&border_color=DC2626" height="165"/>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brancestack&layout=compact&langs_count=6&bg_color=000000&title_color=DC2626&text_color=FFFFFF&border_color=DC2626" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brancestack&layout=compact&langs_count=6&bg_color=000000&title_color=DC2626&text_color=FFFFFF&border_color=DC2626" height="185"/>
 </p>
+
 ---
 
 ## Contact
