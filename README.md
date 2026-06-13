@@ -6,10 +6,6 @@
   <img src="https://img.shields.io/badge/Banking-DC2626?style=for-the-badge" />
 </p>
 
-<p align="center">
-<i>My commits are heavily influenced by Monster Energy White.</i>
-</p>
-
 ## About Me
 
 I am passionate about building scalable software solutions and exploring how technology can transform financial services, digital products, and business operations.
