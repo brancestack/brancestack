@@ -1,14 +1,24 @@
-# Nicolas Castro
+<img src="https://capsule-render.vercel.app/api?type=waving&color=DC2626&height=220&section=header&text=Nicolas%20Castro&fontSize=45&fontColor=ffffff&animation=fadeIn" />
 
-### Computer Science Student | Backend Developer | FinTech | Banking Technology | Product Engineering
+<h3 align="center">
+Computer Science Student | Backend Developer | FinTech | Banking Technology | Product Engineering
+</h3>
+
+<p align="center">
+<i>My commits are heavily influenced by Monster Energy White.</i>
+</p>
+
+---
+
+## About Me
 
 I am passionate about building scalable software solutions and exploring how technology can transform financial services, digital products, and business operations.
 
 My interests are centered around backend engineering, distributed systems, financial technology, and software architecture designed to support high-volume transactions, product scalability, and long-term business growth.
 
+---
 
-
-## Interest
+## Interests
 
 - Financial Technology (FinTech)
 - Banking Systems
@@ -23,7 +33,9 @@ My interests are centered around backend engineering, distributed systems, finan
 - Platform Engineering
 - Cloud-Native Applications
 
-## Stacks
+---
+
+## Tech Stack
 
 ### Backend
 
@@ -45,7 +57,7 @@ My interests are centered around backend engineering, distributed systems, finan
 
 ---
 
-## Goals
+## Professional Goals
 
 My goal is to contribute to technology products that solve real-world problems, particularly within the financial sector, while continuously improving my skills in software engineering, system design, and scalable architectures.
 
@@ -59,20 +71,26 @@ I am especially interested in opportunities involving:
 - Platform Engineering
 - Product Development
 
+---
 
-## Git Stats
+## GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=brancestack&show_icons=true&bg_color=000000&title_color=ff3b3b&text_color=ffffff&icon_color=ff3b3b&border_color=ff3b3b)
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brancestack&show_icons=true&bg_color=000000&title_color=DC2626&text_color=FFFFFF&icon_color=DC2626&border_color=DC2626"/>
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=brancestack&layout=compact&bg_color=000000&title_color=ff3b3b&text_color=ffffff&border_color=ff3b3b)
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brancestack&layout=compact&bg_color=000000&title_color=DC2626&text_color=FFFFFF&border_color=DC2626"/>
+</p>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=brancestack&background=000000&border=DC2626&stroke=DC2626&ring=DC2626&fire=EF4444&currStreakNum=FFFFFF&currStreakLabel=DC2626&sideNums=FFFFFF&sideLabels=FFFFFF&dates=9CA3AF)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=brancestack&background=000000&border=DC2626&stroke=DC2626&ring=DC2626&fire=EF4444&currStreakNum=FFFFFF&currStreakLabel=DC2626&sideNums=FFFFFF&sideLabels=FFFFFF&dates=9CA3AF"/>
+</p>
 
+---
 
 ## Contact
 
-nicribeirolis@gmail.com
+📍 Fortaleza, Brazil
 
-Fortaleza, Brazil 
-
-
+📧 nicribeirolis@gmail.com
