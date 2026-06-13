@@ -71,5 +71,6 @@ I am especially interested in opportunities involving:
 
 ## Contact
 
+nicribeirolis@gmail.com
 Fortaleza, Brazil 
 
