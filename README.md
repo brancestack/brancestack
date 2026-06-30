@@ -2,8 +2,6 @@
 
 ## About Me
 
-I am enthusiastic about building scalable software solutions and exploring how technology can transform financial services, digital products, and business operations.
-
 My interests are centered around backend engineering, distributed systems, financial technology, and software architecture designed to support high-volume transactions, product scalability, and long-term business growth.
 
 ---
@@ -53,7 +51,7 @@ My goal is to contribute to technology products that solve real-world problems, 
 
 I am especially interested in opportunities involving:
 
-- FinTech
+- Fintech
 - Banking Technology
 - Corporate Technology
 - Backend Development
