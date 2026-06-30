@@ -1,11 +1,5 @@
 <h1 align="center">Brancestack</h1>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Backend%20Developer-DC2626?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/FinTech-DC2626?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Banking-DC2626?style=for-the-badge" />
-</p>
-
 ## About Me
 
 I am enthusiastic about building scalable software solutions and exploring how technology can transform financial services, digital products, and business operations.
