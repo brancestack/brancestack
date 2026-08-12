@@ -8,7 +8,6 @@ My interests are centered around backend engineering, distributed systems and so
 
 ## Interests
 
-- Financial Technology (FinTech)
 - Banking Systems
 - Payment Processing
 - Digital Products
