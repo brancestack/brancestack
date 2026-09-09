@@ -60,15 +60,7 @@ I am especially interested in opportunities involving:
 
 ## Stats
 
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=brancestack&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=brancestack&layout=compact&theme=tokyonight)
-
-</div>
-
-</div>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=brancestack&theme=tokyonight" />
 
 ## Contact
 
