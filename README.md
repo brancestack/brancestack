@@ -60,7 +60,7 @@ I am especially interested in opportunities involving:
 
 ## Stats
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=brancestack&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=brancestack&theme=tokyonight" />
 
 ## Contact
 
