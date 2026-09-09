@@ -82,12 +82,12 @@ Projects and experiments involving **Rust, Linux, AWS, Docker, distributed syste
 ## GitHub Overview
 
 <p align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=brancestack&theme=radical" />
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=brancestack&theme=2077" />
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=brancestack&theme=radical" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=brancestack&theme=radical&utcOffset=-3" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=brancestack&theme=2077" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=brancestack&theme=2077&utcOffset=-3" />
 </p>
 
 ---
@@ -95,8 +95,8 @@ Projects and experiments involving **Rust, Linux, AWS, Docker, distributed syste
 ## Languages
 
 <p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=brancestack&theme=radical" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=brancestack&theme=radical" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=brancestack&theme=2077" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=brancestack&theme=2077" />
 </p>
 
 ---
