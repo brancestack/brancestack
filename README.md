@@ -8,7 +8,7 @@
 
 ## About
 
-Computer Science undergraduate focused on building backend applications, APIs, data-driven systems, and software infrastructure.
+Software Engineer undergraduate focused on building backend applications, APIs, data-driven systems, and software infrastructure.
 
 I work primarily with **Java, Python, Rust and Clojure**, developing projects involving backend services, databases, authentication, business rules, system design, and cloud infrastructure.
 
@@ -16,7 +16,7 @@ My current work includes financial systems, marketplaces, distributed applicatio
 
 ---
 
-## Stack
+## Tech Stack
 
 ### Backend & Systems
 
@@ -46,7 +46,7 @@ My current work includes financial systems, marketplaces, distributed applicatio
 
 ## Engineering
 
-```text
+```text id="0ykctw"
 Backend Development       REST APIs • Authentication • Business Logic
 Software Architecture     Layered Architecture • DDD • Design Patterns
 Databases                 PostgreSQL • MySQL • SQL • Data Modeling
@@ -82,12 +82,12 @@ Projects and experiments involving **Rust, Linux, AWS, Docker, distributed syste
 ## GitHub Overview
 
 <p align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=brancestack&theme=2077" />
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=brancestack&theme=github_dark" />
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=brancestack&theme=2077" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=brancestack&theme=2077&utcOffset=-3" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=brancestack&theme=github_dark" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=brancestack&theme=github_dark&utcOffset=-3" />
 </p>
 
 ---
@@ -95,15 +95,15 @@ Projects and experiments involving **Rust, Linux, AWS, Docker, distributed syste
 ## Languages
 
 <p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=brancestack&theme=2077" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=brancestack&theme=2077" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=brancestack&theme=github_dark" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=brancestack&theme=github_dark" />
 </p>
 
 ---
 
 ## Current Focus
 
-```text
+```text id="0qztr6"
 Java / Spring Boot
 Rust
 Clojure
