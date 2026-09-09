@@ -16,18 +16,12 @@ My current work includes financial systems, marketplaces, distributed applicatio
 
 ---
 
-## Tech Stack
+## Stack
 
 ### Backend & Systems
 
 <p>
   <img src="https://skillicons.dev/icons?i=java,spring,python,rust,clojure,nodejs" />
-</p>
-
-### Frontend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,typescript,javascript,html,css" />
 </p>
 
 ### Databases
@@ -36,7 +30,7 @@ My current work includes financial systems, marketplaces, distributed applicatio
   <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,redis" />
 </p>
 
-### Infrastructure & Development
+### Development
 
 <p>
   <img src="https://skillicons.dev/icons?i=aws,docker,linux,git,github,githubactions" />
@@ -59,7 +53,7 @@ Functional Programming    Clojure
 
 ---
 
-## Selected Work
+## Work On
 
 ### Financial Systems
 
@@ -79,7 +73,7 @@ Projects and experiments involving **Rust, Linux, AWS, Docker, distributed syste
 
 ---
 
-## GitHub Overview
+## Git Stats
 
 <p align="center">
   <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=brancestack&theme=github_dark&title_color=ffffff&text_color=c9d1d9&bg_color=0d1117&border_color=30363d&icon_color=8b949e&chart_color=8b949e" />
