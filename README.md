@@ -8,7 +8,7 @@
 
 ## About
 
-Software Engineer undergraduate focused on building backend applications, APIs, data-driven systems, and software infrastructure.
+Computer Science undergraduate focused on building backend applications, APIs, data-driven systems, and software infrastructure.
 
 I work primarily with **Java, Python, Rust and Clojure**, developing projects involving backend services, databases, authentication, business rules, system design, and cloud infrastructure.
 
@@ -46,7 +46,7 @@ My current work includes financial systems, marketplaces, distributed applicatio
 
 ## Engineering
 
-```text id="0ykctw"
+```text
 Backend Development       REST APIs • Authentication • Business Logic
 Software Architecture     Layered Architecture • DDD • Design Patterns
 Databases                 PostgreSQL • MySQL • SQL • Data Modeling
@@ -82,12 +82,12 @@ Projects and experiments involving **Rust, Linux, AWS, Docker, distributed syste
 ## GitHub Overview
 
 <p align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=brancestack&theme=github_dark" />
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=brancestack&theme=github_dark&title_color=ffffff&text_color=c9d1d9&bg_color=0d1117&border_color=30363d&icon_color=8b949e&chart_color=8b949e" />
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=brancestack&theme=github_dark" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=brancestack&theme=github_dark&utcOffset=-3" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=brancestack&theme=github_dark&title_color=ffffff&text_color=c9d1d9&bg_color=0d1117&border_color=30363d&icon_color=8b949e&chart_color=8b949e" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=brancestack&theme=github_dark&utcOffset=-3&title_color=ffffff&text_color=c9d1d9&bg_color=0d1117&border_color=30363d&icon_color=8b949e&chart_color=8b949e" />
 </p>
 
 ---
@@ -95,15 +95,15 @@ Projects and experiments involving **Rust, Linux, AWS, Docker, distributed syste
 ## Languages
 
 <p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=brancestack&theme=github_dark" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=brancestack&theme=github_dark" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=brancestack&theme=github_dark&title_color=ffffff&text_color=c9d1d9&bg_color=0d1117&border_color=30363d&icon_color=8b949e&chart_color=8b949e" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=brancestack&theme=github_dark&title_color=ffffff&text_color=c9d1d9&bg_color=0d1117&border_color=30363d&icon_color=8b949e&chart_color=8b949e" />
 </p>
 
 ---
 
 ## Current Focus
 
-```text id="0qztr6"
+```text
 Java / Spring Boot
 Rust
 Clojure
