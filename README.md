@@ -8,7 +8,7 @@
 
 ## About
 
-Computer Science undergraduate focused on building backend applications, APIs, data-driven systems, and software infrastructure.
+Software Engineer undergraduate focused on building backend applications, APIs, data-driven systems, and software infrastructure.
 
 I work primarily with **Java, Python, Rust and Clojure**, developing projects involving backend services, databases, authentication, business rules, system design, and cloud infrastructure.
 
